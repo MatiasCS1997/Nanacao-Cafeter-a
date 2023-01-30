@@ -1,0 +1,22 @@
+{
+  "name": "nanacao-cafeter-a",
+  "version": "1.0.0",
+  "description": "Estudiante: Matías Stuardo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasCS1997/Nanacao-Cafeter-a.git"
+  },
+  "keywords": [
+    "44182"
+  ],
+  "author": "mati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiasCS1997/Nanacao-Cafeter-a/issues"
+  },
+  "homepage": "https://github.com/MatiasCS1997/Nanacao-Cafeter-a#readme"
+}
